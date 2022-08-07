@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+
+a.two:link, a.two:visited, a.two:hover, a.two:active {
+  color: white;
+	text-decoration: none;
+}
+a.collapsed:link, a.collapsed:visited, a.collapsed:hover, a.collapsed:active {
+	color:black;
+	text-decoration: none;
+}
+a.three:link, a.three:visited, a.three:hover, a.three:active {
+  color: black;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/* Made by Emma Levitsky - do not remove */
+
+

@@ -1,0 +1,126 @@
+@charset "utf-8";
+@import url("webfonts/Lato_Bold/stylesheet.css");
+
+.navbar.navbar-expand-lg.navbar-light {
+	margin-bottom: -13px;
+	margin-left: -17px;
+	margin-top: -14px;
+	font-family: "Lato Bold";
+	font-style: normal;
+	font-weight: 100;
+}
+.navbar-nav.ml-auto .nav-item.active .nav-link {
+	color: #3A82CC;
+	margin-left: 16px;
+}
+.navbar-nav.ml-auto .nav-item .nav-link {
+	color: #3A82CC;
+	margin-left: 16px;
+}
+
+.jumbotron.jumbotron-fluid.text-center {
+	background-color: #343A40;
+	color: #FFFFFF;
+
+}
+
+
+
+
+.footer {
+	background-color: #343A40;
+	color: #FFFFFF;
+}
+.jumbotron.jumbotron-fluid.text-center_1 {
+	background-image: -webkit-linear-gradient(359deg,rgba(8,67,127,1.00) 0%,rgba(58,130,204,1.00) 39.37%,rgba(58,130,204,1.00) 56.99%,rgba(8,67,127,1.00) 100%);
+	background-image: -moz-linear-gradient(359deg,rgba(8,67,127,1.00) 0%,rgba(58,130,204,1.00) 39.37%,rgba(58,130,204,1.00) 56.99%,rgba(8,67,127,1.00) 100%);
+	background-image: -o-linear-gradient(359deg,rgba(8,67,127,1.00) 0%,rgba(58,130,204,1.00) 39.37%,rgba(58,130,204,1.00) 56.99%,rgba(8,67,127,1.00) 100%);
+	background-image: linear-gradient(91deg,rgba(8,67,127,1.00) 0%,rgba(58,130,204,1.00) 39.37%,rgba(58,130,204,1.00) 56.99%,rgba(8,67,127,1.00) 100%);
+	padding-left: 169px;
+	color: #FFFFFF;
+}
+.col-xl-4 p strong {
+	font-size: xx-large;
+}
+
+.container .row.text-center p {
+	text-align: center;
+}
+.row .col-xl-2 img {
+	text-align: center;
+	padding-left: 0px;
+
+}
+body img {
+	padding-left: 0px;
+}
+.jumbotron.jumbotron-fluid.text-center_1 .join {
+	text-align: right;
+	padding-right: 155px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-top: 14px;
+	margin-right: 168px;
+	font-size: large;
+}
+.container .centered {
+	text-align: center;
+}
+.container .header_center {
+	text-align: center;
+
+}
+#accordion1 .card #collapseOne1 {
+	text-align: center;
+}
+#accordion2 .card #collapseOne2 {
+	text-align: center;
+}
+.card-body .row .col-xl-6 {
+	text-align: center;
+}
+.container video {
+	text-align: right;
+}
+.navbar.navbar-expand-lg.navbar-dark .navbar-toggler .navbar-toggler-icon {
+	background-color: #3A82CC;
+	color: #000000;
+}
+.container .row {
+	text-align: center;
+}
+.container .two {
+	text-align: center;
+}
+
+.containerblue .two {
+	text-align: center;
+	background-color: #016da7;
+	color: #FFFFFF;
+}
+.container.blue {
+	text-align: center;
+	background-color: #016DA7;
+	color: #FFFFFF;
+}
+.container.blue .header_2.centered {
+	font-size: xx-large;
+}
+
+.container.gray {
+	text-align: center;
+	color: #727272;
+}
+.container.gray .header_2.centered {
+	font-size: xx-large;
+}
+.jumbotron.jumbotron-fluid.text-center_1 .row .two {
+	text-align: center;
+}
+
+
+
+
+
+
+/* Made by Emma Levitsky - do not remove */
